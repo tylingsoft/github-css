@@ -1,9 +1,9 @@
 {
   "name": "github-css",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CSS to replicate the GitHub style",
-  "main": "index.js",
-  "repository": "git@github.com:tylerlong/github-css.git",
+  "main": "index.css",
+  "repository": "git@github.com:tylingsoft/github-css.git",
   "author": "Tyler Long <tyler4long@gmail.com>",
   "license": "MIT"
 }
